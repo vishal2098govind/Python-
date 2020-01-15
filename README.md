@@ -15,7 +15,7 @@ Paste the link to your notebook, (e.g. "http://github/vishal2098govind/Python-/b
     
     Both players must be sitting infront of the single computer. One of them must be a dealer and other must be a player.
     
-    Notebook link to view in nbviewer:
-    http://github/vishal2098govind/Python-/blob/master/BlackJack%20IO.ipynb
+  Notebook link to view in nbviewer:
+  http://github/vishal2098govind/Python-/blob/master/BlackJack%20IO.ipynb
     
         
